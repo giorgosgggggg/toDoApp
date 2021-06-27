@@ -4,8 +4,8 @@ The project utilizing React to create a Todo app. Todo Items can be updated to s
 
 ## Tecnologies
 
--HTML
-- CSS
+
+- HTML
 - Sass
 - React
 - UseState
